@@ -36,6 +36,6 @@ public class Kure : MonoBehaviour
 
     void OnCollisionEnter(Collision collisionInfo)
     {
-        print(gameObject.name + " ve " + collisionInfo.collider.tag + " arasýnda çarpýþma algýlandý.");
+        print(gameObject.name + " ve " + collisionInfo.collider.tag + " arasinda Ã§arpiÅŸma algilandi.");
     }
 }
